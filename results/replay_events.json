@@ -1,0 +1,320 @@
+[
+  {
+    "subject": "S001",
+    "run": 12,
+    "onset": 0.0,
+    "label": 3
+  },
+  {
+    "subject": "S001",
+    "run": 12,
+    "onset": 4.2,
+    "label": 1
+  },
+  {
+    "subject": "S001",
+    "run": 12,
+    "onset": 8.3,
+    "label": 3
+  },
+  {
+    "subject": "S001",
+    "run": 12,
+    "onset": 12.5,
+    "label": 0
+  },
+  {
+    "subject": "S001",
+    "run": 12,
+    "onset": 16.6,
+    "label": 3
+  },
+  {
+    "subject": "S001",
+    "run": 12,
+    "onset": 20.8,
+    "label": 1
+  },
+  {
+    "subject": "S001",
+    "run": 12,
+    "onset": 24.9,
+    "label": 3
+  },
+  {
+    "subject": "S001",
+    "run": 12,
+    "onset": 29.1,
+    "label": 0
+  },
+  {
+    "subject": "S001",
+    "run": 12,
+    "onset": 33.2,
+    "label": 3
+  },
+  {
+    "subject": "S001",
+    "run": 12,
+    "onset": 37.4,
+    "label": 0
+  },
+  {
+    "subject": "S001",
+    "run": 12,
+    "onset": 41.5,
+    "label": 3
+  },
+  {
+    "subject": "S001",
+    "run": 12,
+    "onset": 45.7,
+    "label": 1
+  },
+  {
+    "subject": "S001",
+    "run": 12,
+    "onset": 49.8,
+    "label": 3
+  },
+  {
+    "subject": "S001",
+    "run": 12,
+    "onset": 54.0,
+    "label": 1
+  },
+  {
+    "subject": "S001",
+    "run": 12,
+    "onset": 58.1,
+    "label": 3
+  },
+  {
+    "subject": "S001",
+    "run": 12,
+    "onset": 62.3,
+    "label": 0
+  },
+  {
+    "subject": "S001",
+    "run": 12,
+    "onset": 66.4,
+    "label": 3
+  },
+  {
+    "subject": "S001",
+    "run": 12,
+    "onset": 70.6,
+    "label": 0
+  },
+  {
+    "subject": "S001",
+    "run": 12,
+    "onset": 74.7,
+    "label": 3
+  },
+  {
+    "subject": "S001",
+    "run": 12,
+    "onset": 78.9,
+    "label": 1
+  },
+  {
+    "subject": "S001",
+    "run": 12,
+    "onset": 83.0,
+    "label": 3
+  },
+  {
+    "subject": "S001",
+    "run": 12,
+    "onset": 87.2,
+    "label": 1
+  },
+  {
+    "subject": "S001",
+    "run": 12,
+    "onset": 91.3,
+    "label": 3
+  },
+  {
+    "subject": "S001",
+    "run": 12,
+    "onset": 95.5,
+    "label": 0
+  },
+  {
+    "subject": "S001",
+    "run": 12,
+    "onset": 99.6,
+    "label": 3
+  },
+  {
+    "subject": "S001",
+    "run": 12,
+    "onset": 103.8,
+    "label": 1
+  },
+  {
+    "subject": "S001",
+    "run": 12,
+    "onset": 107.9,
+    "label": 3
+  },
+  {
+    "subject": "S001",
+    "run": 12,
+    "onset": 112.1,
+    "label": 0
+  },
+  {
+    "subject": "S001",
+    "run": 12,
+    "onset": 116.2,
+    "label": 3
+  },
+  {
+    "subject": "S001",
+    "run": 12,
+    "onset": 120.4,
+    "label": 1
+  },
+  {
+    "subject": "S001",
+    "run": 14,
+    "onset": 0.0,
+    "label": 3
+  },
+  {
+    "subject": "S001",
+    "run": 14,
+    "onset": 4.2,
+    "label": 2
+  },
+  {
+    "subject": "S001",
+    "run": 14,
+    "onset": 8.3,
+    "label": 3
+  },
+  {
+    "subject": "S001",
+    "run": 14,
+    "onset": 16.6,
+    "label": 3
+  },
+  {
+    "subject": "S001",
+    "run": 14,
+    "onset": 20.8,
+    "label": 2
+  },
+  {
+    "subject": "S001",
+    "run": 14,
+    "onset": 24.9,
+    "label": 3
+  },
+  {
+    "subject": "S001",
+    "run": 14,
+    "onset": 33.2,
+    "label": 3
+  },
+  {
+    "subject": "S001",
+    "run": 14,
+    "onset": 41.5,
+    "label": 3
+  },
+  {
+    "subject": "S001",
+    "run": 14,
+    "onset": 45.7,
+    "label": 2
+  },
+  {
+    "subject": "S001",
+    "run": 14,
+    "onset": 49.8,
+    "label": 3
+  },
+  {
+    "subject": "S001",
+    "run": 14,
+    "onset": 58.1,
+    "label": 3
+  },
+  {
+    "subject": "S001",
+    "run": 14,
+    "onset": 62.3,
+    "label": 2
+  },
+  {
+    "subject": "S001",
+    "run": 14,
+    "onset": 66.4,
+    "label": 3
+  },
+  {
+    "subject": "S001",
+    "run": 14,
+    "onset": 74.7,
+    "label": 3
+  },
+  {
+    "subject": "S001",
+    "run": 14,
+    "onset": 78.9,
+    "label": 2
+  },
+  {
+    "subject": "S001",
+    "run": 14,
+    "onset": 83.0,
+    "label": 3
+  },
+  {
+    "subject": "S001",
+    "run": 14,
+    "onset": 87.2,
+    "label": 2
+  },
+  {
+    "subject": "S001",
+    "run": 14,
+    "onset": 91.3,
+    "label": 3
+  },
+  {
+    "subject": "S001",
+    "run": 14,
+    "onset": 99.6,
+    "label": 3
+  },
+  {
+    "subject": "S001",
+    "run": 14,
+    "onset": 103.8,
+    "label": 2
+  },
+  {
+    "subject": "S001",
+    "run": 14,
+    "onset": 107.9,
+    "label": 3
+  },
+  {
+    "subject": "S001",
+    "run": 14,
+    "onset": 116.2,
+    "label": 3
+  },
+  {
+    "subject": "S001",
+    "run": 14,
+    "onset": 120.4,
+    "label": 2
+  }
+]

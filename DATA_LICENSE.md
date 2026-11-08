@@ -1,0 +1,1 @@
+Derivative EEG epochs originate from PhysioNet EEGMMIDB v1.0.0, Gerwin Schalk (2009), DOI 10.13026/C28G6P. License: Open Data Commons Attribution License v1.0 (ODC-By): https://opendatacommons.org/licenses/by/1-0/ . These are filtered C3/Cz/C4 epochs from S001 R12/R14; no endorsement by the data creators is implied. Full source manifest is in results/data_manifest.json.
